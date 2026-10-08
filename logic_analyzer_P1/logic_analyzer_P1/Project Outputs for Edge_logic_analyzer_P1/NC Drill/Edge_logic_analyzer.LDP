@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\nivuc\OneDrive\Área de Trabalho\MSE\Multi-Signal-Analyzer-Hardware\logic_analyzer_P1\logic_analyzer_P1\Edge_logic_analyzer.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=edge_logic_analyzer-roundholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=edge_logic_analyzer-slotholes.txt|DrillLayers=gtl,g1,g2,gbl

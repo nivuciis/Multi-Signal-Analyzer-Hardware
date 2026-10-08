@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Edge_logic_analyzer.PcbDoc]
+   Generated File[Edge_logic_analyzer-RoundHoles.TXT]
+   Generated File[Edge_logic_analyzer-SlotHoles.TXT]
+   Generated File[Edge_logic_analyzer.LDP]
+   Generated File[Edge_logic_analyzer.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 21:39:19 On 07/10/2026

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=+VBUS Pin=SW2-2
+Removed Pin From Net: NetName=+3V3 Pin=SW2-4
+Added Pin To Net: NetName=+VBUS Pin=SW2-1
+Added Pin To Net: NetName=+3V3 Pin=SW2-2
+Added Pin To Net: NetName=+VREF Pin=SW2-4

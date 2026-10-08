@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: Edge_logic_analyzer.GBR   07/10/2026  21:39:17
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GTL                L1                                      
+.G1                 L2                                      
+.G2                 L3                                      
+.GBL                L4                                      
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM2                Mechan. Drawing                         
+.GM3                Manufacturing Notes                     
+.GM28               Board Outline                           
+.GM                 Profile                                 
+------------------------------------------------------------------------------------------
