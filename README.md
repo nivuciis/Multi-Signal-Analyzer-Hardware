@@ -7,6 +7,10 @@ The firmware lives in a separate repository: **[Multi-Signal-Analyzer](https://g
 
 ![Assembled board, revision P1](images/isoPCB-Render.png)
 
+
+📄 **[View the full schematic (PDF)](logic_analyzer_P1/Edge_Logic_Analyzer_p1.pdf)**
+ 
+
 ---
 
 ## Contents
